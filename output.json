@@ -1,0 +1,16 @@
+[
+  {
+    "device_id": "A1",
+    "timestamp": 1692448800000,
+    "temperature": 72.5,
+    "pressure": 101.3,
+    "status": "OK"
+  },
+  {
+    "device_id": "A1",
+    "timestamp": 1692453600000,
+    "temperature": 72.5,
+    "pressure": 101.3,
+    "status": "OK"
+  }
+]
